@@ -2,8 +2,8 @@
 
 ### About me
 
-<img src="images/profile_image.jpg" width="100" height="20">
-![](images/profile_image.jpg 100x20)
+<img src="images/profile_image.png" width="100" height="20">
+![](images/profile_image.png 100x20)
 
 
 <!--
