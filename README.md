@@ -5,6 +5,6 @@
 
 ### About me 
 
-I'm an **Electronics Engineer** who is passionate about electronic design. 
+I'm an **Electronics Engineer** who is passionate about electronic design using Altium. 
 
 
