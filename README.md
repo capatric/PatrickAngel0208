@@ -2,7 +2,7 @@
 
 ### About me
 
-<img src="images/profile_image.png" width="900" height="300">
+<img src="images/profile_image.png" width="950" height="350">
 
 
 
