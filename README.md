@@ -1,8 +1,9 @@
+<img src="images/profile_image.png" width="950" height="350">
 ### Hi there, I am Carlo! 👋
 
 ### About me
 
-<img src="images/profile_image.png" width="950" height="350">
+
 
 
 
