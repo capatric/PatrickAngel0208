@@ -2,6 +2,9 @@
 
 ### About me
 
+![](images/filename profile_image.jpg)
+
+
 <!--
 **PatrickAngel0208/PatrickAngel0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
