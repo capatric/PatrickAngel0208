@@ -2,7 +2,7 @@
 
 ### About me
 
-![](images/filename profile_image.jpg)
+![](images/profile_image.jpg)
 
 
 <!--
