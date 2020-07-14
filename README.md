@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+![alt text](https://github.com/PatrickAngel0208/PatrickAngel0208/blob/master/profile_image.png?raw=true)
+
 
 ### Hi there, I am Carlo! 👋
 
