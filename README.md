@@ -7,4 +7,4 @@
 
 I'm an **Electronics Engineer** who is passionate about electronic design using Altium. 
 
-
+I'm currently learning Python for using it to automate the boring stuff. 
