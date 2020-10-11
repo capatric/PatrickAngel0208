@@ -20,6 +20,6 @@ I'm currently learning Python for using it to automate the boring stuff.
 
 </details>
 
-[website]: 
-[instagram]: 
+[website]: asd
+[instagram]: asd
 [linkedin]: https://www.linkedin.com/in/patrickangel0208/
