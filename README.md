@@ -2,13 +2,14 @@
 
 ![PCB for profile](https://github.com/PatrickAngel0208/PatrickAngel0208/blob/master/profile_image.jpg?raw=true)
 
-[![Linkelin](https://www.linkedin.com/in/patrickangel0208/)](https://www.linkedin.com/in/patrickangel0208/)
 
-### About me 
 
-I'm an **Electronics Engineer** who is passionate about electronic design using Altium. 
+## I'm an electronic engineer intern, elctrical technicial and a landscapes lover!!
 
-I'm currently learning Python for using it to automate the boring stuff. 
+- 🔭 I love the analog electronics, the design of boards and altium, and the simulation of circuits.
+- 🌱 I’m currently learning automation with python by Google.
+- 🥅 2020 Goals: Contribute Open Source projects, read Atomic Habits book, and more books.
+- ⚡ Fun fact: I love to ride on bike in the forest.  
 
 ### Connect with me:
 
