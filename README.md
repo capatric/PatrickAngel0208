@@ -6,7 +6,7 @@
 
 ## I'm an electronic engineer intern, elctrical technicial and a landscapes lover!!
 
-- 🔭 I love the analog electronics, the design of boards and altium, and the simulation of circuits.
+- 🔭 I love the analog electronics, the design of boards on Altium Designer, and the simulation of circuits.
 - 🌱 I’m currently learning automation with python by Google.
 - 🥅 2020 Goals: Contribute Open Source projects, read Atomic Habits book, and more books.
 - ⚡ Fun fact: I love to ride on bike in the forest.  
