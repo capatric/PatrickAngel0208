@@ -8,7 +8,7 @@
 
 - 🔭 I love the analog electronics, the design of boards on Altium Designer, and the simulation of circuits.
 - 🌱 I’m currently learning automation with python by Google.
-- 🥅 2020 Goals: Contribute Open Source projects, read Atomic Habits book, and more books.
+- 🥅 2021 Goals: Work in industry, read Atomic Habits book, and more books.
 - ⚡ Fun fact: I love to ride on bike in the forest.  
 
 ### Connect with me:
