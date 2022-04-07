@@ -4,11 +4,11 @@
 
 
 
-## I'm an electronic engineer intern, elctrical technicial and a landscapes lover!!
+## I'm an electronic engineer, elctrical technician and a landscapes lover!!
 
 - 🔭 I love the analog electronics, the design of boards on Altium Designer, and the simulation of circuits.
 - 🌱 I’m currently learning automation with python by Google.
-- 🥅 2021 Goals: Work in industry, read Atomic Habits book, and more books.
+- 🥅 2022 Goals:Improve my softskills, read non-fiction books, and so on.
 - ⚡ Fun fact: I love to ride on bike in the forest.  
 
 ### Connect with me:
