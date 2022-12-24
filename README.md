@@ -4,7 +4,7 @@
 
 
 
-## I'm an electronic engineer, elctrical technician and a landscapes lover!!
+## I'm an electronic engineer and a landscapes lover!!
 
 - 🔭 I am fascinated with analog electronics and computers.
 - 🌱 I'm now studying automation using Python from Google and getting started in the ML world.
