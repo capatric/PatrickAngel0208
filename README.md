@@ -6,10 +6,10 @@
 
 ## I'm an electronic engineer, elctrical technician and a landscapes lover!!
 
-- 🔭 I love the analog electronics, the design of boards on Altium Designer, and the simulation of circuits.
-- 🌱 I’m currently learning automation with python by Google.
-- 🥅 2022 Goals:Improve my softskills, read non-fiction books, and so on.
-- ⚡ Fun fact: I love to ride on bike in the forest.  
+- 🔭 I am fascinated with analog electronics and computers.
+- 🌱 I'm now studying automation using Python from Google and getting started in the ML world.
+- 🥅 2023 Goals:Improve my CS and soft skills, read non-fiction books, and so on.
+- ⚡ Fun fact: Nature is everything to me, thus riding through it gives me life.  
 
 ### Connect with me:
 
