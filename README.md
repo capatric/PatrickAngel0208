@@ -21,6 +21,6 @@
 
 </details>
 
-[website]: asd
+[website]: asd.com
 [instagram]: asd
 [linkedin]: https://www.linkedin.com/in/patrickangel0208/
